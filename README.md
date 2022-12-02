@@ -2,7 +2,7 @@
 
 ## Как смотреть проект
 
-https://anastasiiakaledina.github.io/portfolio/painting_project_js/
+https://anastasiiakaledina.github.io/painting_project_js/
 
 Проект, написанный на css, html, js. Также использовались запросы на сервер, чтобы отправлять данные
 
